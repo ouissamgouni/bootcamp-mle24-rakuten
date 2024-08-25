@@ -481,6 +481,7 @@ plaît
 poid
 mettre
 afin
+vient
 
 
 
